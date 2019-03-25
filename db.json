@@ -9,7 +9,9 @@
         },
         "itemDetails":{
             "title": "Essentials by OFM ESS-3085 Racing style Leather Gaming chair, Red",
-            "quantity": 1
+            "quantity": 1,
+            "currentPrice": 102.96,
+            "promoprice":99.11
         }
     }
 }
